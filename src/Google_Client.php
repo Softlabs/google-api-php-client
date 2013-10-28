@@ -1,4 +1,7 @@
 <?php
+
+namespace GoogleApi\Google_Client;
+
 /*
  * Copyright 2010 Google Inc.
  *
